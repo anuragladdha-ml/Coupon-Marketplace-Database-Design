@@ -34,37 +34,37 @@ The main menu shown below helps DEALFOREST employees to store Customer, Merchant
 
 ## Data Input and Manipulation Screen Forms ##
 
-- Customer Form
+- Customer Form :
 This form allows the employees to add new customer along with a customer interest. The Add customer interest button navigates to the customer interest form which can be used after the customer is added.
 
-- Customers Interest Form
+- Customers Interest Form :
 This form is used to add, delete, update customer interest. The subform displays the complete list of categories available for the selection.
 
-- Merchant Form
+- Merchant Form :
 This form allows the employees to add new merchant along with a in what category does a customer fall into like DELL will be having electronics as category. A merchant can have multiple categories as well. The Add Merchant category button navigates to the Merchant Category form which can be used after the Merchant is added.
 
-- Merchant Category Form
+- Merchant Category Form :
 This form is used to add, delete, update Merchant Category. The subform displays the complete list of categories available for the selection.
 
-- Coupon Form
+- Coupon Form :
 This form is used to add, update, delete different coupons information which are available with merchants in the system. The add review button navigates employee to the coupon review form.
 
-- Coupon review Form
+- Coupon review Form :
 This form is used to add, delete, update coupon reviews. Multiple customer can give reviews to a single coupon & singe customer can give reviews to multiple coupons.
 
-- Membership Form
+- Membership Form :
 The form displayed below lets the employee to add, update, delete different merchant membership which a customer is having. A customer can have multiple membership, this information can be further used to provide customers with coupons which are relevant to his/hers membership
 
-- Shopping Cart Form
+- Shopping Cart Form :
 This form lets the employee to add, update, delete a cart to the customer. The form also has a ‘Add coupon to the Existing Cart’ button which navigates the employee to the coupon Cart form, where coupons can be added to the cart.
 
-- Coupon Cart Form
+- Coupon Cart Form :
 This form allows the employee to add, update, delete coupons to the cart. Multiple coupons can be added to a single cart.
 
-- Order Form
+- Order Form :
 The form displayed below lets the employee add order for the customer. The order is a completion process of cart coupon activity i.e coupons added to the cart are checked out using order form. This form allows employee to add payment type, transaction id and the payment status also.
 
-- Category Form
+- Category Form :
 The system database already has lots of categories but if in case DealForest wish to expand its scope then more categories can be added using this form.
 
 # Reports
